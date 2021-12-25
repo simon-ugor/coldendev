@@ -30,21 +30,21 @@ export default function Home() {
           <Link href="/ourgames">
             <div className={styles.card} style={{cursor: "pointer"}}>
               <h2>Our Games</h2>
-              <p>Discover, try and enjoy games developed by ColdenDev</p>
+              <p>Discover, try and enjoy games developed by ColdenDev.</p>
             </div>
           </Link>
 
           <Link href="/contactus">
             <div className={styles.card} style={{cursor: "pointer"}}>
               <h2>Contact Us</h2>
-              <p>Contact us for any questions or troubleshooting</p>
+              <p>Contact us for any questions or troubleshooting.</p>
             </div>
           </Link>
 
           <Link href="/socialmedia">
             <div className={styles.card} style={{cursor: "pointer"}}>
-              <h2>Social Media</h2>
-              <p>You can find us and give us a follow on social media as well</p>
+              <h2>Privacy Policy</h2>
+              <p>Privacy Policy and legal information for users of our products.</p>
             </div>
           </Link>
 
