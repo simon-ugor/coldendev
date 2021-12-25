@@ -41,7 +41,7 @@ export default function Home() {
             </div>
           </Link>
 
-          <Link href="/socialmedia">
+          <Link href="/privacypolicy">
             <div className={styles.card} style={{cursor: "pointer"}}>
               <h2>Privacy Policy</h2>
               <p>Privacy Policy and legal information for users of our products.</p>
