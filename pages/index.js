@@ -23,28 +23,28 @@ export default function Home() {
           <Link href="/aboutus">
             <div className={styles.card} style={{cursor: "pointer"}}>
               <h2>About Us</h2>
-              <p>Learn about Next.js in an interactive course with quizzes!</p>
+              <p>Learn more about ColdenDev, our projects and future plans.</p>
             </div>
           </Link>
 
           <Link href="/ourgames">
             <div className={styles.card} style={{cursor: "pointer"}}>
               <h2>Our Games</h2>
-              <p>Learn about Next.js in an interactive course with quizzes!</p>
+              <p>Discover, try and enjoy games developed by ColdenDev</p>
             </div>
           </Link>
 
           <Link href="/contactus">
             <div className={styles.card} style={{cursor: "pointer"}}>
               <h2>Contact Us</h2>
-              <p>Learn about Next.js in an interactive course with quizzes!</p>
+              <p>Contact us for any questions or troubleshooting</p>
             </div>
           </Link>
 
           <Link href="/socialmedia">
             <div className={styles.card} style={{cursor: "pointer"}}>
               <h2>Social Media</h2>
-              <p>Learn about Next.js in an interactive course with quizzes!</p>
+              <p>You can find us and give us a follow on social media as well</p>
             </div>
           </Link>
 

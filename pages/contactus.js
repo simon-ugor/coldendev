@@ -19,7 +19,8 @@ export default function Home() {
         <br/><br/><br/>
 
         <div className={styles.grid}>
-
+          <h2>For any questions or troubleshooting contact us at:</h2>
+          <h2>coldenwebdev@gmail.com</h2>
         </div>
       </main>
     </div>
