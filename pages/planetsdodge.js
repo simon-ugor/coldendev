@@ -45,8 +45,8 @@ function Home({deviceInfo, testMessage}) {
   return (
     <div className={styles.container}>
       <Head>
-        <title>ColdenDev - Drop That Box</title>
-        <meta name="description" content="Drop That Box - mobile game developed by ColdenDev" />
+        <title>ColdenDev - Planets Dodge</title>
+        <meta name="description" content="Planets Dodge - mobile game developed by ColdenDev" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
